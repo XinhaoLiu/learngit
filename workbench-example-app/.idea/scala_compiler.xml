@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="workbench-example-app_8880" />
+    <profile name="sbt 2" modules="Example">
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-compiler_2.11.8/jars/scalajs-compiler_2.11.8-0.6.13.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>
